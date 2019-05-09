@@ -2,3 +2,4 @@ module-b
 
 
 changed
+This module got new feature
